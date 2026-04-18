@@ -1,2 +1,113 @@
-IyBkb3VibGUtZW50cnktY29yZQoKQSBjbGVhbiwgcmVjcnVpdGVyLWZyaWVuZGx5IERqYW5nbyByZWZlcmVuY2UgcHJvamVjdCBmb3IgZG91YmxlLWVudHJ5IGFjY291bnRpbmcgcHJpbWl0aXZlcy4KClRoaXMgcmVwb3NpdG9yeSBpcyBkZXNpZ25lZCB0byBzaG93Y2FzZSBiYWNrZW5kIGVuZ2luZWVyaW5nIGp1ZGdtZW50LCBkb21haW4gbW9kZWxpbmcsIHZhbGlkYXRpb24sIGFuZCB0ZXN0YWJsZSBmaW5hbmNpYWwgbG9naWMgd2l0aG91dCBleHBvc2luZyBhbnkgcHJpdmF0ZSBidXNpbmVzcyBjb2RlLgoKIyMgV2h5IHRoaXMgZXhpc3RzCgpNYW55IHN0cm9uZyBwcml2YXRlIHN5c3RlbXMgbmV2ZXIgYmVjb21lIHZpc2libGUgaW4gcHVibGljIHBvcnRmb2xpb3MuClRoaXMgcHJvamVjdCBleHRyYWN0cyBvbmUgb2YgdGhlIGhpZ2hlc3Qtc2lnbmFsIGJhY2tlbmQgY29uY2VwdHMsIGEgZG91YmxlLWVudHJ5IGxlZGdlciBjb3JlLCBpbnRvIGEgc21hbGwgcHVibGljIHJlcG9zaXRvcnkgdGhhdCBkZW1vbnN0cmF0ZXMgc2VyaW91cyBlbmdpbmVlcmluZyByYXRoZXIgdGhhbiB0dXRvcmlhbC1sZXZlbCBDUlVELgoKIyMgV2hhdCBpdCBkZW1vbnN0cmF0ZXMKCi0gZG91YmxlLWVudHJ5IGFjY291bnRpbmcgZnVuZGFtZW50YWxzCi0gYmFsYW5jZWQgam91cm5hbCBlbnRyeSB2YWxpZGF0aW9uCi0gaW1tdXRhYmxlIGxlZGdlci1zdHlsZSB0cmFuc2FjdGlvbiByZWNvcmRzCi0gY2xlYXIgZG9tYWluIGJvdW5kYXJpZXMKLSBzZXJ2aWNlLWxheWVyIGJ1c2luZXNzIGxvZ2ljCi0gdGVzdC1maXJzdCBmaW5hbmNpYWwgY29ycmVjdG5lc3MgbWluZHNldAotIHJlY3J1aXRlci1mcmllbmRseSBwcm9qZWN0IHN0cnVjdHVyZQoKIyMgSW5pdGlhbCBzY29wZQoKVmVyc2lvbiAxIHNob3VsZCBzdGF5IHRpZ2h0IGFuZCBkaXNjaXBsaW5lZC4KCiMjIyBDb3JlIG1vZGVscwotIEFjY291bnQKLSBKb3VybmFsRW50cnkKLSBKb3VybmFsTGluZQoKIyMjIENvcmUgcnVsZXMKLSB0b3RhbCBkZWJpdHMgbXVzdCBlcXVhbCB0b3RhbCBjcmVkaXRzCi0gam91cm5hbCBlbnRyaWVzIGNhbm5vdCBwb3N0IHdpdGhvdXQgbGluZXMKLSBwb3N0ZWQgZW50cmllcyBiZWNvbWUgaW1tdXRhYmxlCi0gYWNjb3VudCBjYXRlZ29yaWVzIGRyaXZlIG5vcm1hbCBiYWxhbmNlIGJlaGF2aW9yCi0gbGluZSBhbW91bnRzIG11c3QgYmUgcG9zaXRpdmUKCiMjIyBDb3JlIGZlYXR1cmVzCi0gY3JlYXRlIGRyYWZ0IGpvdXJuYWwgZW50cnkKLSBhZGQgZGViaXQvY3JlZGl0IGxpbmVzCi0gdmFsaWRhdGUgYmFsYW5jZQotIHBvc3QgZW50cnkKLSBjYWxjdWxhdGUgYWNjb3VudCBiYWxhbmNlCi0gbGlzdCBsZWRnZXIgbGluZXMgZm9yIGFuIGFjY291bnQKCiMjIFdoYXQgdGhpcyByZXBvIGlzIG5vdAoKLSBub3QgYSBmdWxsIEVSUAotIG5vdCBpbnZvaWNpbmcgc29mdHdhcmUKLSBub3QgcGF5cm9sbAotIG5vdCBiYW5rIGludGVncmF0aW9uCi0gbm90IGEgY2xvbmUgb2YgYW55IHByaXZhdGUgcHJvZHVjdGlvbiBzeXN0ZW0KCiMjIFN1Z2dlc3RlZCBzdGFjawoKLSBQeXRob24gMy4xMisKLSBEamFuZ28gNQotIERqYW5nbyBSRVNUIEZyYW1ld29yawotIHB5dGVzdAotIFBvc3RncmVTUUwgb3IgU1FMaXRlIGZvciBkZW1vIHVzZQoKIyMgU3VnZ2VzdGVkIHN0cnVjdHVyZQoKYGBgdGV4dAphcHAvCiAgYWNjb3VudGluZy8KICAgIGRvbWFpbi8KICAgIHNlcnZpY2VzLwogICAgc2VsZWN0b3JzLwogICAgYXBpLwogICAgdGVzdHMvCmBgYAoKIyMgUHVibGljIHBvcnRmb2xpbyBwb3NpdGlvbmluZwoKVGhpcyBzaG91bGQgcmVhZCBhczoK
-Cl0gQSBjb21wYWN0IGJ1dCBzZXJpb3VzIGFjY291bnRpbmctY29yZSBwcm9qZWN0IHNob3dpbmcgaG93IEkgbW9kZWwgZmluYW5jaWFsIHJ1bGVzIGFuZCBiYWNrZW5kIGJ1c2luZXNzIGxvZ2ljIGluIERqYW5nby4KClRoYXQgaXMgc3Ryb25nZXIgdGhhbiB0cnlpbmcgdG8gcHVibGlzaCBhIGhhbGYtZmluaXNoZWQgcHVibGljIEVSUC4KCiMjIFJvYWRtYXAKCiMjIyB2MQotIGRvbWFpbiBtb2RlbAotIHBvc3RpbmcgcnVsZXMKLSBiYWxhbmNlIGxvZ2ljCi0gdGVzdCBzdWl0ZQotIGNsZWFuIFJFQURNRQoKIyMjIHYyCi0gdHJpYWwgYmFsYW5jZSBlbmRwb2ludAotIGFjY291bnQgc3RhdGVtZW50IGVuZHBvaW50Ci0gcmV2ZXJzYWwgZW50cmllcwotIGZpc2NhbCBwZXJpb2QgZ3VhcmRyYWlscwoKIyMjIHYzCi0gbXVsdGktdGVuYW50IGFkYXB0YXRpb24gZXhhbXBsZQotIGF1ZGl0L2V2ZW50IGhvb2tzCi0gaW1wb3J0IGZpeHR1cmVzIGZvciBkZW1vIHNjZW5hcmlvcwoKIyMgUmVjcnVpdGVyIG91dGNvbWUKClNvbWVvbmUgbGFuZGluZyBoZXJlIHNob3VsZCBxdWlja2x5IGNvbmNsdWRlOgotIHRoaXMgZGV2ZWxvcGVyIGhhcyBidWlsdCByZWFsIHN5c3RlbXMKLSB0aGlzIGRldmVsb3BlciB1bmRlcnN0YW5kcyBmaW5hbmNpYWwgY29ycmVjdG5lc3MKLSB0aGlzIGRldmVsb3BlciBjYW4gc3RydWN0dXJlIGJhY2tlbmQgY29kZSBjbGVhbmx5Ci0gdGhpcyBkZXZlbG9wZXIgY2FuIHNlcGFyYXRlIGRvbWFpbiBsb2dpYyBmcm9tIGZyYW1ld29yayBnbHVlCgojIyBOZXh0IGJ1aWxkIHN0ZXAKClNjYWZmb2xkIHRoZSBEamFuZ28gcHJvamVjdCBhbmQgaW1wbGVtZW50IHRoZSBtaW5pbWFsIGFjY291bnRpbmcgY29yZSB3aXRoIHRlc3RzIGJlZm9yZSBhZGRpbmcgZXh0cmEgZmVhdHVyZXMu
+# double-entry-core
+
+A compact Django reference project for double-entry accounting primitives.
+
+This repo exists to show serious backend engineering, not flashy demo work. It focuses on domain modeling, validation rules, and testable financial logic in a clean public package.
+
+## Why this repo exists
+
+A lot of strong private systems never become visible in public portfolios.
+
+This project turns one high-signal concept, a double-entry ledger core, into a recruiter-friendly public repo that demonstrates real engineering judgment without exposing private business code.
+
+## What it demonstrates
+
+- double-entry accounting fundamentals
+- balanced journal entry validation
+- immutable posting workflow
+- clean domain boundaries
+- service-layer business logic
+- test-first financial correctness mindset
+- Django structure for business-critical backend systems
+
+## Initial scope
+
+Version 1 stays intentionally tight.
+
+### Core models
+- Account
+- JournalEntry
+- JournalLine
+
+### Core rules
+- total debits must equal total credits
+- journal entries cannot post without lines
+- posted entries become immutable
+- account categories drive normal balance behavior
+- line amounts must be positive
+
+### Core features
+- create draft journal entry
+- add debit and credit lines
+- validate balance
+- post entry
+- calculate account balance
+- list ledger lines for an account
+
+## What this repo is not
+
+- not a full ERP
+- not invoicing software
+- not payroll
+- not bank integration
+- not a clone of any private production codebase
+
+## Suggested stack
+
+- Python 3.12+
+- Django 5
+- Django REST Framework
+- pytest
+- PostgreSQL or SQLite for demo use
+
+## Suggested structure
+
+```text
+app/
+  accounting/
+    domain/
+    services/
+    selectors/
+    api/
+    tests/
+```
+
+## Public portfolio positioning
+
+This repo should communicate one thing clearly:
+
+> I know how to model financial rules and backend business logic in Django.
+
+That is stronger than publishing a half-finished public ERP.
+
+## Roadmap
+
+### v1
+- domain model
+- posting rules
+- balance logic
+- test suite
+- clean README
+
+### v2
+- trial balance endpoint
+- account statement endpoint
+- reversal entries
+- fiscal period guardrails
+
+### v3
+- multi-tenant adaptation example
+- audit and event hooks
+- demo fixtures
+
+## Recruiter outcome
+
+Someone landing here should quickly conclude:
+- this developer has built real systems
+- this developer understands financial correctness
+- this developer can structure backend code cleanly
+- this developer can separate domain logic from framework glue
+
+## Next build step
+
+Scaffold the Django project and implement the minimal accounting core with tests before adding extra features.
